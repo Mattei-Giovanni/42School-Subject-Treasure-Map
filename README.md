@@ -10,13 +10,13 @@
 ----------.--.+ ++++++++++++++++.--------.+++++++++++++.<<.>>----------
 -------------.+++.+++ ++++.---.----.+++++++++++++++++.---------------
 --.-.<<.>>+++++.+++++.<<.>-------...
-### RESULT:  Hello, World!
+### Hello, World!
 ## Born2beroot
 ![Alt Text](https://github.com/Mattei-Giovanni/42School-Subject-Treasure-Map/blob/main/img/Born2beRoot.png)
   > 0010 01 11 111 001 000 11 01 10 1 0000 01 1 1010 111 11 0 000
 011 00 1 0000 1 0000 0 01 0100 1 0 010 10 01 1 0 0001 0 010 000
 00 111 10 111 0010 001100 001100 001100
-### RESULT:  HELLO WORLD, HOW ARE YOU?
+### HELLO WORLD, HOW ARE YOU?
 ## push_swap
 ![Alt Text](https://github.com/Mattei-Giovanni/42School-Subject-Treasure-Map/blob/main/img/Push_swap.png)
   > file.bfe:VABB7yO9xm7xWXROeASsmsgnY0o0sDMJev7zFHhwQS8mvM8V5xQQp
